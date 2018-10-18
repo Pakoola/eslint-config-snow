@@ -21,6 +21,10 @@
     "eslint-plugin-prettier": "^2.7.0",
     "prettier": "^1.14.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pakoola/eslint-config-snow.git"
+  },
   "author": "Justin Pakula <jpakul14@gmail.com>",
   "license": "ISC"
 }

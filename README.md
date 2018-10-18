@@ -19,7 +19,7 @@ ServiceNow ES5 ESLint configuration following the Airbnb ES5 Style Guide. This p
 ---
 ```json
 rules: {
-    "space-before-function-paren": [2, 'never'],
+    "space-before-function-paren": [2, "never"],
     "func-names": 0,
     "no-use-before-define": [2, {
       variables: false,
@@ -28,10 +28,10 @@ rules: {
     "no-plusplus": 0,
     "block-scoped-var": 0,
     '"vars-on-top": 0,
-    "brace-style": ["error", "1tbs"],
-    "semi": ["error", "always"],
-    "no-underscore-dangle": ["error", {
-      'allowAfterThis': true
+    "brace-style": [2, "1tbs"],
+    "semi": [2, "always"],
+    "no-underscore-dangle": [2, {
+      "allowAfterThis": true
     }]
   }
 ```
