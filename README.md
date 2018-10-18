@@ -27,7 +27,7 @@ rules: {
     }],
     "no-plusplus": 0,
     "block-scoped-var": 0,
-    '"vars-on-top": 0,
+    "vars-on-top": 0,
     "brace-style": [2, "1tbs"],
     "semi": [2, "always"],
     "no-underscore-dangle": [2, {
