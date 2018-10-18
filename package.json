@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-snow",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ESLint config for ServiceNow code based off airbnb style. All configurations originated from https://www.npmjs.com/package/eslint-config-servicenow",
   "main": "index.js",
   "scripts": {
