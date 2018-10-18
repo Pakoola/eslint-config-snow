@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-snow",
+  "version": "1.0.3",
+  "description": "ESLint config for ServiceNow code based off airbnb style. All configurations originated from https://www.npmjs.com/package/eslint-config-servicenow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "servicenow",
+    "eslint",
+    "config",
+    "snow"
+  ],
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.3.2",
+    "eslint-config-prettier": "^2.10.0",
+    "eslint-plugin-angular": "^3.3.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-prettier": "^2.7.0",
+    "prettier": "^1.14.3"
+  },
+  "author": "Justin Pakula <jpakul14@gmail.com>",
+  "license": "ISC"
+}
