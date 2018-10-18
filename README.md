@@ -22,8 +22,8 @@ rules: {
     "space-before-function-paren": [2, "never"],
     "func-names": 0,
     "no-use-before-define": [2, {
-      variables: false,
-      functions: false
+      "variables": false,
+      "functions": false
     }],
     "no-plusplus": 0,
     "block-scoped-var": 0,
