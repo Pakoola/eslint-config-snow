@@ -34,7 +34,8 @@ module.exports = {
     GlideSysAttachment: true,
     GlideFilter: true,
     sys_email: true,
-    Cart: true
+    Cart: true,
+    jslog: true
   },
   rules: {
     'space-before-function-paren': [2, 'never'],
