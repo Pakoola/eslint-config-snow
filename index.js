@@ -35,10 +35,13 @@ module.exports = {
     GlideFilter: true,
     sys_email: true,
     Cart: true,
-    jslog: true
+    jslog: true,
+    action: true,
+    previous: true
   },
   rules: {
     'space-before-function-paren': [2, 'never'],
+    'func-names': 0,
     'no-use-before-define': [2, {
       variables: false,
       functions: false
